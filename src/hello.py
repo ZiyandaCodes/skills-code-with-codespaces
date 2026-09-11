@@ -1,1 +1,1 @@
-print("Hello World!")clear
+print("Hello World!")
